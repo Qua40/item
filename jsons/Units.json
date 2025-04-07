@@ -6,7 +6,7 @@
 		"range": 1,
 		"cost": 18,
 		"requiredTech": "Agriculture"
-		"uniques":["[Target Unit] gains the [Sharpened Rock] promotion <by consuming this unit>"
+		"uniques":["[Military] units gain the [Sharpened Rock] promotion <by consuming this unit>"
 		]
 	},
 	{
@@ -16,7 +16,7 @@
 		"range": 1,
 		"cost": 33,
 		"requiredTech": "Agriculture",
-		"uniques":["[Target Unit] gains the [Sand Pouch] promotion <by consuming this unit>"
+		"uniques":["[Military] gains the [Sand Pouch] promotion <by consuming this unit>"
 		]
 	}
 ]
