@@ -6,5 +6,7 @@
 		"range": 1,
 		"cost": 18,
 		"requiredTech": "Agriculture"
+		"uniques":["[15]% Strength bonus for [military] units within [1] tiles"
+		]
 	}
 ]
