@@ -2,7 +2,7 @@
 
 	{
 		"name": "Sharpened Rock",
-		"uniques": ["[+15]% Strength", "Doing so will consume this opportunity to choose a Promotion"],
+		"uniques": ["[+15]% Strength"],
 		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
 		"innerColor": [90,48,64],
 		"outerColor": [173,40,37],
@@ -11,7 +11,7 @@
   	},
 	{
 		"name": "Sand Pouch",
-		"uniques": ["[-10]% Strength for enemy [Land] units in adjacent [Desert] tiles", "Doing so will consume this opportunity to choose a Promotion"],
+		"uniques": ["[-10]% Strength for enemy [Land] units in adjacent [Desert] tiles"],
 		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
 		"innerColor": [90,48,64],
 		"outerColor": [173,40,37],
