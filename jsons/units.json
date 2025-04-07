@@ -1,0 +1,10 @@
+[
+	{
+		"name": "Shattered Screen",
+		"unitType": "Civilian",
+		"movement": 2,
+		"range": 1,
+		"cost": 18,
+		"requiredTech": "Agriculture"
+	}
+]
