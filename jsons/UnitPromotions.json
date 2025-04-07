@@ -1,7 +1,7 @@
 [
 
 	{
-		"name": "Sharpened Rock",
+		"name": "Sharpened Edge",
 		"uniques": ["[+15]% Strength"],
 		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
 		"innerColor": [90,48,64],
@@ -17,5 +17,32 @@
 		"outerColor": [173,40,37],
       		"row": 1,
   		"column": 28
+  	},
+	{
+		"name": "Trapping",
+		"uniques": ["Free [Spike Trap] appears"],
+		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
+		"innerColor": [90,48,64],
+		"outerColor": [173,40,37],
+      		"row": 1,
+  		"column": 30
+  	},
+	{
+		"name": "Quicksand Trap",
+		"uniques": ["[-24]% Strength for enemy [Land] units in adjacent [Desert] tiles"],
+		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
+		"innerColor": [90,48,64],
+		"outerColor": [173,40,37],
+      		"row": 1,
+  		"column": 
+  	},
+	{
+		"name": "Trapping",
+		"uniques": ["Free [Spike Trap] appears"],
+		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
+		"innerColor": [90,48,64],
+		"outerColor": [173,40,37],
+      		"row": 1,
+  		"column": 30
   	},
 ]
