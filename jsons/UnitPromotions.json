@@ -1,0 +1,12 @@
+[
+
+	{
+		"name": "Sharpened Rock",
+		"uniques": ["[+20]% Strength", "Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
+		"innerColor": [90,48,64],
+		"outerColor": [173,40,37],
+      		"row": 0,
+  		"column": 0
+  }
+]
