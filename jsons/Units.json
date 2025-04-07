@@ -1,12 +1,22 @@
 [
 	{
-		"name": "Shattered Screen",
+		"name": "Sharpened Rock",
 		"unitType": "Civilian",
 		"movement": 2,
 		"range": 1,
 		"cost": 18,
 		"requiredTech": "Agriculture"
-		"uniques":["[15]% Strength bonus for [military] units within [1] tiles"
+		"uniques":["[Target Unit] gains the [Sharpened Rock] promotion <by consuming this unit>"
+		]
+	},
+	{
+		"name": "Sand Pouch",
+		"unitType": "Civilian",
+		"movement": 2,
+		"range": 1,
+		"cost": 33,
+		"requiredTech": "Agriculture",
+		"uniques":["[Target Unit] gains the [Sand Pouch] promotion <by consuming this unit>"
 		]
 	}
 ]
