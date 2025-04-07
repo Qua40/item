@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Sharpened Rock",
+		"name": "Sharpened Edge",
 		"unitType": "Civilian",
 		"movement": 2,
 		"range": 1,
 		"cost": 18,
 		"requiredTech": "Agriculture"
-		"uniques":["[Military] units gain the [Sharpened Rock] promotion <by consuming this unit>"
+		"uniques":["[Military] units gain the [Sharpened Edge] promotion <by consuming this unit>"
 		]
 	},
 	{
