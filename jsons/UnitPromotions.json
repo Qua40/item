@@ -2,7 +2,7 @@
 
 	{
 		"name": "Sharpened Edge",
-		"uniques": ["[+15]% Strength"],
+		"uniques": ["[+6]% Strength"],
 		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
 		"innerColor": [90,48,64],
 		"outerColor": [173,40,37],
@@ -25,24 +25,52 @@
 		"innerColor": [90,48,64],
 		"outerColor": [173,40,37],
       		"row": 1,
+  		"column": 29
+  	},
+	{
+		"name": "Tattered Cloak",
+		"uniques": ["Withdraws before melee combat <when below [50] HP> <with [99]% chance>"],
+		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
+		"innerColor": [90,48,64],
+		"outerColor": [173,40,37],
+      		"row": 1,
   		"column": 30
   	},
 	{
-		"name": "Quicksand Trap",
-		"uniques": ["[-24]% Strength for enemy [Land] units in adjacent [Desert] tiles"],
-		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
+		"name": "Crude Shield",
+		"uniques": ["[+15]% Strength <with [34]% chance> <when defending>"],
+		"unitTypes": ["Sword","Mounted","Scout"],
 		"innerColor": [90,48,64],
 		"outerColor": [173,40,37],
-      		"row": 1,
-  		"column": 
+      		"row": 2,
+  		"column": 27
   	},
 	{
-		"name": "Trapping",
-		"uniques": ["Free [Spike Trap] appears"],
+		"name": "Deflecting Technique",
+		"uniques": ["[+9999]% Strength <with [2]% chance> <when defending> <vs [Melee]>"],
 		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
 		"innerColor": [90,48,64],
 		"outerColor": [173,40,37],
-      		"row": 1,
+      		"row": 2,
+  		"column": 28
+  	},
+	{
+		"name": "Berserk",
+		"uniques": ["[+50]% Strength <for [3] turns> <upon losing at least [50] HP in a single attack>",
+			   "[This Unit] heals [10] HP <upon defeating a [Military] unit> <for [3] turns> <upon losing at least [50] HP in a single attack>"],
+		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
+		"innerColor": [90,48,64],
+		"outerColor": [173,40,37],
+      		"row": 2,
+  		"column": 29
+  	},
+	{
+		"name": "warrior's Deathwish",
+		"uniques": ["Earn [20]% of killed [Wounded] unit's [Cost] as [Culture] <upon being defeated>"],
+		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
+		"innerColor": [90,48,64],
+		"outerColor": [173,40,37],
+      		"row": 2,
   		"column": 30
   	},
 ]
