@@ -2,7 +2,8 @@
 
 	{
 		"name": "Sharpened Edge",
-		"uniques": ["[+6]% Strength"],
+		"uniques": ["[+6]% Strength",
+			"This Promotion is free <after discovering [Mining]>"],
 		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
 		"innerColor": [90,48,64],
 		"outerColor": [173,40,37],
@@ -11,7 +12,8 @@
   	},
 	{
 		"name": "Sand Pouch",
-		"uniques": ["[-10]% Strength for enemy [Land] units in adjacent [Desert] tiles"],
+		"uniques": ["[-10]% Strength for enemy [Land] units in adjacent [Desert] tiles",
+			"This Promotion is free <upon ending a turn in a [Desert] tile>"],
 		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
 		"innerColor": [90,48,64],
 		"outerColor": [173,40,37],
@@ -20,7 +22,8 @@
   	},
 	{
 		"name": "Trapping",
-		"uniques": ["Free [Spike Trap] appears"],
+		"uniques": ["Free [Spike Trap] appears",
+			"This Promotion is free <upon ending a turn in a [Camp] tile>"],
 		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
 		"innerColor": [90,48,64],
 		"outerColor": [173,40,37],
@@ -29,7 +32,8 @@
   	},
 	{
 		"name": "Tattered Cloak",
-		"uniques": ["Withdraws before melee combat <when below [50] HP> <with [99]% chance>"],
+		"uniques": ["Withdraws before melee combat <when below [50] HP> <with [99]% chance>",
+			"This Promotion is free <upon discovering a [Mountain] tile>"],
 		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
 		"innerColor": [90,48,64],
 		"outerColor": [173,40,37],
@@ -38,7 +42,8 @@
   	},
 	{
 		"name": "Crude Shield",
-		"uniques": ["[+15]% Strength <with [34]% chance> <when defending>"],
+		"uniques": ["[+15]% Strength <with [34]% chance> <when defending>",
+			"This Promotion is free <upon damaging a [Ranged] unit>"],
 		"unitTypes": ["Sword","Mounted","Scout"],
 		"innerColor": [90,48,64],
 		"outerColor": [173,40,37],
@@ -47,7 +52,8 @@
   	},
 	{
 		"name": "Deflecting Technique",
-		"uniques": ["[+9999]% Strength <with [2]% chance> <when defending> <vs [Melee]>"],
+		"uniques": ["[+9999]% Strength <with [2]% chance> <when defending> <vs [Melee]>",
+			"This Promotion is free <after adopting [Honor]>"],
 		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
 		"innerColor": [90,48,64],
 		"outerColor": [173,40,37],
@@ -57,7 +63,8 @@
 	{
 		"name": "Berserk",
 		"uniques": ["[+50]% Strength <for [3] turns> <upon losing at least [50] HP in a single attack>",
-			   "[This Unit] heals [10] HP <upon defeating a [Military] unit> <for [3] turns> <upon losing at least [50] HP in a single attack>"],
+			   "[This Unit] heals [10] HP <upon defeating a [Military] unit> <for [3] turns> <upon losing at least [50] HP in a single attack>",
+			"This Promotion is free <upon gaining the [Warrior's Deathwish] promotion>"],
 		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
 		"innerColor": [90,48,64],
 		"outerColor": [173,40,37],
@@ -65,8 +72,9 @@
   		"column": 29
   	},
 	{
-		"name": "warrior's Deathwish",
-		"uniques": ["Earn [20]% of killed [Wounded] unit's [Cost] as [Culture] <upon being defeated>"],
+		"name": "Warrior's Deathwish",
+		"uniques": ["Earn [20]% of killed [Wounded] unit's [Cost] as [Culture] <upon being defeated>",
+			"This Promotion is free <after adopting [Piety]"],
 		"unitTypes": ["Sword","Mounted","Scout","Siege","Archery"],
 		"innerColor": [90,48,64],
 		"outerColor": [173,40,37],
